@@ -1,7 +1,13 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { HiderComponent } from './components/hider/hider.component';
 
-const routes: Routes = [];
+
+const routes: Routes = [
+
+
+  
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
